@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pharmacy.Frontend.3t9ux24gt7.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\Nurofen.jpg",
+      "PackagePath": "staticwebassets\\images\\Nurofen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\aspirin.jpg",
+      "PackagePath": "staticwebassets\\images\\aspirin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\ibu.jpg",
+      "PackagePath": "staticwebassets\\images\\ibu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\paracetamol.jpg",
+      "PackagePath": "staticwebassets\\images\\paracetamol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm.jpg",
+      "PackagePath": "staticwebassets\\images\\pharm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm1.jpg",
+      "PackagePath": "staticwebassets\\images\\pharm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm2.jpg",
+      "PackagePath": "staticwebassets\\images\\pharm2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm3.jpg",
+      "PackagePath": "staticwebassets\\images\\pharm3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm4.jpg",
+      "PackagePath": "staticwebassets\\images\\pharm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharmacy1.webp",
+      "PackagePath": "staticwebassets\\images\\pharmacy1.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\solpadeine.jpg",
+      "PackagePath": "staticwebassets\\images\\solpadeine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\welcome.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pharmacy.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pharmacy.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pharmacy.Frontend.props",
+      "PackagePath": "build\\Pharmacy.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pharmacy.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Pharmacy.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pharmacy.Frontend.props",
+      "PackagePath": "buildTransitive\\Pharmacy.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

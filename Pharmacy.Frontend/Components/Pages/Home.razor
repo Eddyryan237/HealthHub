@@ -1,0 +1,55 @@
+﻿@page "/"
+@inject PharmacyClients Client
+
+
+<PageTitle>Pharmacy</PageTitle>
+@if (pharmacies is null)
+{
+        <p><em>Loading.....</em></p>
+}
+else
+{
+
+        <div class="welcome">
+            <h1>Your Nearest pharmacy</h1>
+        </div>
+        <div></div>
+        <div id="search">
+            <span id="mylocation"><a><i class="fa fa-street-view"></i>
+                    Use My Location</a></span><br>
+            <span id="location">
+                <input type="text" id="location" placeholder="Location" class="fa fa-search" aria-hidden="true">
+            </span><br>
+            <span id="list"><a><i class="fa fa-list" aria-hidden="true"></i>
+                    Pharmacy List</a></span>
+            <span id="view"><a><i class="fa-solid fa-location-crosshairs"></i>
+                    Map Views</a></span>
+        </div>
+
+        <div class="pharmacy">
+            @foreach (var pharmacie in pharmacies)
+            {
+
+                    <div class="carts">
+                        <img src=" @pharmacie.Image">
+                        <h1>@pharmacie.Name</h1>
+                        <span>Contact: +237 @pharmacie.Contact</span><br>
+                        <span>Location:@pharmacie.Location</span><br>
+                        <div class="button">
+                            <button type="button" id="btn1">Book An Appointment</button>
+                            <button type="button" id="btn2" @onclick="() => ShowDetails(pharmacie.Name)">View More Information</button>
+                        </div>
+                    </div>
+
+
+
+            }
+        </div>
+}
+@code {
+    private PharmacySummary[]? pharmacies;
+    protected override void OnInitialized()
+    {
+        pharmacies = Client.Getpharmacies();
+    }
+}

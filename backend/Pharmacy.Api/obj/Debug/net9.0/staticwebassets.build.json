@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WBvY/Uu2LohkfvD5lbqAF7jaZWg6smBYxNjv778ZneI=",
+  "Source": "Pharmacy.Api",
+  "BasePath": "_content/Pharmacy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

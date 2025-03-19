@@ -1,0 +1,1670 @@
+{
+  "Version": 1,
+  "Hash": "21t5IeHdHq0R/+dGtJQRFZDXsb7/1RWIuyahWycFQ8Q=",
+  "Source": "Pharmacy.Frontend",
+  "BasePath": "_content/Pharmacy.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pharmacy.Frontend\\wwwroot",
+      "Source": "Pharmacy.Frontend",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pharmacy.Frontend.styles.css",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "Pharmacy.Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "3t9ux24gt7",
+      "Integrity": "2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pharmacy.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "Pharmacy.Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "3t9ux24gt7",
+      "Integrity": "2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\app.css",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\aspirin.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/aspirin#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ksx5087zc",
+      "Integrity": "J4zo706Io9C/14BAfmUc9sy0uKqo/s0sZ9VawAXq6cA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aspirin.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\ibu.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/ibu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2en5lm3sq1",
+      "Integrity": "Vn0NHiJ3It2osY+baQLybIU4qdec8LVLGhN0GDFw1HM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ibu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\Nurofen.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/Nurofen#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8p2vyccdl",
+      "Integrity": "QPP2V/iTK5FEllEiBAv7RCKjGFzZvIpxzDB0CB8Kiak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Nurofen.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\paracetamol.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/paracetamol#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8zt2blsj0k",
+      "Integrity": "vBxwC8E1UpCX5vuS+A9o3Ye3eWtc1MQ6GFSmmsXww0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\paracetamol.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharm#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xw5z5zeyt7",
+      "Integrity": "sfmdWCP9Es4UjfIZWTcApbnnBpacCQr9301dT2TQthI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharm.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm1.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharm1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x8gvvabtao",
+      "Integrity": "ATvIdTLjYkw5VHbjh0gnDY9WFbb4yyYG/rxqZLzIS5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharm1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm2.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharm2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x607zsynv6",
+      "Integrity": "uc8eaGo3+RszZhkmOoqQO1makkk+PXYCnkrdKrf3Pcc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharm2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm3.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharm3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dg84xp4smk",
+      "Integrity": "M/cDehmVTz6iEW7HKkL74W1WKWTTGt3bhwjObFjCYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharm3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm4.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharm4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yqo47rvbkf",
+      "Integrity": "SrkVK1K+bLdOuAKE92lOqF7PRfYT7g8kjG7rL1hYVoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharm4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharmacy1.webp",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/pharmacy1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fl7vmfj43q",
+      "Integrity": "zSV0EV1SO43ZM3t2q9rtcStgAcRlKKBAwhq0eKvF8N0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pharmacy1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\solpadeine.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/solpadeine#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iczb02b023",
+      "Integrity": "ToB+iX4QscSLb331UpaA5eGWYWPdx65o0GvO39he72E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\solpadeine.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\welcome.jpg",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "images/welcome#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "54rdy96eta",
+      "Integrity": "hdDXwCHxzQIkBY5tSNqLoqLFhMGUSDibSFhmdKGzGGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\welcome.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1pqyagq4a9",
+      "Integrity": "peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 06:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 06:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "images/aspirin.9ksx5087zc.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\aspirin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J4zo706Io9C/14BAfmUc9sy0uKqo/s0sZ9VawAXq6cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ksx5087zc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/aspirin.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J4zo706Io9C/14BAfmUc9sy0uKqo/s0sZ9VawAXq6cA="
+        }
+      ]
+    },
+    {
+      "Route": "images/aspirin.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\aspirin.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J4zo706Io9C/14BAfmUc9sy0uKqo/s0sZ9VawAXq6cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J4zo706Io9C/14BAfmUc9sy0uKqo/s0sZ9VawAXq6cA="
+        }
+      ]
+    },
+    {
+      "Route": "images/ibu.2en5lm3sq1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\ibu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vn0NHiJ3It2osY+baQLybIU4qdec8LVLGhN0GDFw1HM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:58:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2en5lm3sq1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ibu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vn0NHiJ3It2osY+baQLybIU4qdec8LVLGhN0GDFw1HM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ibu.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\ibu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vn0NHiJ3It2osY+baQLybIU4qdec8LVLGhN0GDFw1HM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:58:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vn0NHiJ3It2osY+baQLybIU4qdec8LVLGhN0GDFw1HM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Nurofen.g8p2vyccdl.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\Nurofen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPP2V/iTK5FEllEiBAv7RCKjGFzZvIpxzDB0CB8Kiak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:54:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8p2vyccdl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Nurofen.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPP2V/iTK5FEllEiBAv7RCKjGFzZvIpxzDB0CB8Kiak="
+        }
+      ]
+    },
+    {
+      "Route": "images/Nurofen.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\Nurofen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPP2V/iTK5FEllEiBAv7RCKjGFzZvIpxzDB0CB8Kiak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:54:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPP2V/iTK5FEllEiBAv7RCKjGFzZvIpxzDB0CB8Kiak="
+        }
+      ]
+    },
+    {
+      "Route": "images/paracetamol.8zt2blsj0k.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\paracetamol.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vBxwC8E1UpCX5vuS+A9o3Ye3eWtc1MQ6GFSmmsXww0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8zt2blsj0k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/paracetamol.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vBxwC8E1UpCX5vuS+A9o3Ye3eWtc1MQ6GFSmmsXww0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/paracetamol.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\paracetamol.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vBxwC8E1UpCX5vuS+A9o3Ye3eWtc1MQ6GFSmmsXww0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vBxwC8E1UpCX5vuS+A9o3Ye3eWtc1MQ6GFSmmsXww0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfmdWCP9Es4UjfIZWTcApbnnBpacCQr9301dT2TQthI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfmdWCP9Es4UjfIZWTcApbnnBpacCQr9301dT2TQthI="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm.xw5z5zeyt7.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sfmdWCP9Es4UjfIZWTcApbnnBpacCQr9301dT2TQthI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xw5z5zeyt7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharm.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sfmdWCP9Es4UjfIZWTcApbnnBpacCQr9301dT2TQthI="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ATvIdTLjYkw5VHbjh0gnDY9WFbb4yyYG/rxqZLzIS5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:43:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATvIdTLjYkw5VHbjh0gnDY9WFbb4yyYG/rxqZLzIS5g="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm1.x8gvvabtao.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ATvIdTLjYkw5VHbjh0gnDY9WFbb4yyYG/rxqZLzIS5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:43:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8gvvabtao"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharm1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ATvIdTLjYkw5VHbjh0gnDY9WFbb4yyYG/rxqZLzIS5g="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uc8eaGo3+RszZhkmOoqQO1makkk+PXYCnkrdKrf3Pcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:44:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uc8eaGo3+RszZhkmOoqQO1makkk+PXYCnkrdKrf3Pcc="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm2.x607zsynv6.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uc8eaGo3+RszZhkmOoqQO1makkk+PXYCnkrdKrf3Pcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:44:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x607zsynv6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharm2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uc8eaGo3+RszZhkmOoqQO1makkk+PXYCnkrdKrf3Pcc="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm3.dg84xp4smk.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/cDehmVTz6iEW7HKkL74W1WKWTTGt3bhwjObFjCYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dg84xp4smk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharm3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/cDehmVTz6iEW7HKkL74W1WKWTTGt3bhwjObFjCYzc="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm3.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/cDehmVTz6iEW7HKkL74W1WKWTTGt3bhwjObFjCYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/cDehmVTz6iEW7HKkL74W1WKWTTGt3bhwjObFjCYzc="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm4.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SrkVK1K+bLdOuAKE92lOqF7PRfYT7g8kjG7rL1hYVoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 09:00:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SrkVK1K+bLdOuAKE92lOqF7PRfYT7g8kjG7rL1hYVoY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharm4.yqo47rvbkf.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharm4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SrkVK1K+bLdOuAKE92lOqF7PRfYT7g8kjG7rL1hYVoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 09:00:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqo47rvbkf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharm4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SrkVK1K+bLdOuAKE92lOqF7PRfYT7g8kjG7rL1hYVoY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharmacy1.fl7vmfj43q.webp",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharmacy1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zSV0EV1SO43ZM3t2q9rtcStgAcRlKKBAwhq0eKvF8N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fl7vmfj43q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pharmacy1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zSV0EV1SO43ZM3t2q9rtcStgAcRlKKBAwhq0eKvF8N0="
+        }
+      ]
+    },
+    {
+      "Route": "images/pharmacy1.webp",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\pharmacy1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zSV0EV1SO43ZM3t2q9rtcStgAcRlKKBAwhq0eKvF8N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zSV0EV1SO43ZM3t2q9rtcStgAcRlKKBAwhq0eKvF8N0="
+        }
+      ]
+    },
+    {
+      "Route": "images/solpadeine.iczb02b023.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\solpadeine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToB+iX4QscSLb331UpaA5eGWYWPdx65o0GvO39he72E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:56:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iczb02b023"
+        },
+        {
+          "Name": "label",
+          "Value": "images/solpadeine.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToB+iX4QscSLb331UpaA5eGWYWPdx65o0GvO39he72E="
+        }
+      ]
+    },
+    {
+      "Route": "images/solpadeine.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\solpadeine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ToB+iX4QscSLb331UpaA5eGWYWPdx65o0GvO39he72E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:56:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ToB+iX4QscSLb331UpaA5eGWYWPdx65o0GvO39he72E="
+        }
+      ]
+    },
+    {
+      "Route": "images/welcome.54rdy96eta.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\welcome.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdDXwCHxzQIkBY5tSNqLoqLFhMGUSDibSFhmdKGzGGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "54rdy96eta"
+        },
+        {
+          "Name": "label",
+          "Value": "images/welcome.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdDXwCHxzQIkBY5tSNqLoqLFhMGUSDibSFhmdKGzGGA="
+        }
+      ]
+    },
+    {
+      "Route": "images/welcome.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\images\\welcome.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdDXwCHxzQIkBY5tSNqLoqLFhMGUSDibSFhmdKGzGGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdDXwCHxzQIkBY5tSNqLoqLFhMGUSDibSFhmdKGzGGA="
+        }
+      ]
+    },
+    {
+      "Route": "Pharmacy.Frontend.3t9ux24gt7.bundle.scp.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 06:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t9ux24gt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pharmacy.Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI="
+        }
+      ]
+    },
+    {
+      "Route": "Pharmacy.Frontend.3t9ux24gt7.styles.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pharmacy.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 06:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t9ux24gt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pharmacy.Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI="
+        }
+      ]
+    },
+    {
+      "Route": "Pharmacy.Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 06:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI="
+        }
+      ]
+    },
+    {
+      "Route": "Pharmacy.Frontend.styles.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pharmacy.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 06:33:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Sl+i/8qTTvpMaIBSheDvSI3zLFhVHVN4pzXzWNUupI="
+        }
+      ]
+    },
+    {
+      "Route": "style.1pqyagq4a9.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:02:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1pqyagq4a9"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 16:02:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk="
+        }
+      ]
+    }
+  ]
+}

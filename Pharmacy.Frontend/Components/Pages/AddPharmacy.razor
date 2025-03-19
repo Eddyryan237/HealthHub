@@ -1,0 +1,53 @@
+﻿@page "/addpharmacy"
+@inject NavigationManager NavigationManager 
+@inject PharmacyClients PharmacyClient
+
+
+<PageTitle>Add Pharmacy</PageTitle>
+<h3>Add Pharmacy</h3>
+<div class="addpharmacy">
+<EditForm Model="@pharmacy" FormName="addpharmacy" OnValidSubmit="HandleSubmit">
+    
+    
+    <div class="name">
+        <label for="name">Name:</label><br>
+        <InputText id="name" @bind-Value="pharmacy.Name"></InputText>
+    </div>
+    <div class="contact">
+        <label for="contact">Contact:</label><br>
+        <InputText id="contact" @bind-Value="pharmacy.Contact"></InputText>
+    </div>
+    <div class="image">
+        <label for="image">Image:</label><br>
+        <InputText id="image" @bind-Value="pharmacy.Image"></InputText>
+    </div>
+    <div class="site">
+        <label for="site">Location:</label><br>
+        <InputText id="site" @bind-Value="pharmacy.Location"></InputText>
+    </div>
+    <div class="description">
+        <label for="description">Description:</label><br>
+        <InputTextArea id="description" @bind-Value="pharmacy.Description"></InputTextArea>
+    </div>
+    <button type="submit" >Add</button>
+
+
+</EditForm>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private PharmacyDetails pharmacy { get; set; } = new()
+    {
+        Name = string.Empty,
+        Image = string.Empty,
+        Location = string.Empty,
+        Description = string.Empty
+    
+    };
+    private void HandleSubmit(){
+        PharmacyClient.AddPharmacy(pharmacy);
+        NavigationManager.NavigateTo("/");
+    }
+
+}

@@ -1,0 +1,280 @@
+:root {
+    --primary-color: rgba(1, 80, 136, 0.95);
+    --secondary-color: rgba(226, 220, 220, 0.874);
+}
+
+body {
+    background-color: var(--secondary-color);
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar {
+    background-color: var(--primary-color);
+    height: 50px;
+}
+
+.navbar ul {
+    justify-content: space-between;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: flex;
+    float: right;
+    justify-content: space-between;
+
+}
+
+
+.logo {
+    font-size: larger;
+    padding: 15px;
+    text-align: center;
+    color: var(--secondary-color);
+    padding-right: 30px;
+
+}
+
+
+
+.add a {
+    border-radius: 15px;
+    border: 0px;
+    height: 30px;
+    width: auto;
+    font-size: 15px;
+    color: var(--primary-color);
+}
+
+.find {
+    padding-left: 50px;
+    color: var(--secondary-color);
+}
+
+.navbar a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    padding-left: 60px;
+    padding-right: 40px;
+    margin-left: -2px;
+    font-size: 25px;
+
+    &:hover {
+        color: blue;
+    }
+}
+
+.welcome {
+    text-align: center;
+    height: 250px;
+    width: auto;
+    background-image: url(/images/welcome.jpg);
+    margin: 0px;
+    margin-top: -22px;
+}
+
+.welcome h1 {
+    justify-content: center;
+    padding-top: 80px;
+}
+
+#mylocation {
+    float: right;
+    font-size: 25px;
+    padding: 15px;
+    padding-top: 25px;
+    color: rgb(1, 32, 32);
+}
+
+#location {
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    height: 30px;
+    width: 25%;
+
+
+}
+
+#list {
+    font-size: 25px;
+    padding-left: 15px;
+    color: rgb(1, 32, 32);
+}
+
+#view {
+    float: right;
+    font-size: 25px;
+    padding-right: 15px;
+    color: rgb(1, 32, 32);
+}
+
+.pharmacy {
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 24.5% 24.5% 24.5% 24.5%;
+    grid-gap: 5px;
+    grid-template-rows: 400px;
+}
+
+.button {
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+#btn1 {
+    background-color: var(--primary-color);
+    border-radius: 7px;
+    height: 40px;
+    color: var(--secondary-color);
+    border: 0px;
+
+}
+
+#btn2 {
+    background-color: var(--primary-color);
+    border-radius: 7px;
+    height: 40px;
+    color: var(--secondary-color);
+    border: 0px;
+    margin-left: 10px;
+}
+
+.carts {
+    border-radius: 20px;
+    background-color: var(--primary-color);
+}
+
+.carts img {
+    object-fit: cover;
+    height: 50%;
+    width: 100%;
+    border-radius: 20px;
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+}
+
+.carts span {
+    font-size: 25px;
+    color: var(--secondary-color);
+}
+
+.carts h1 {
+    font-size: 30px;
+}
+
+
+.form {
+    background-color: var(--primary-color);
+    border-radius: 4px;
+    width: 450px;
+    height: 400px;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(1, 32, 32);
+}
+
+.form input {
+    height: 30px;
+    width: 300px;
+    border-radius: 4px;
+    border: 0px;
+    margin-top: 10px;
+
+
+
+}
+
+.form button {
+    background-color: rgb(14, 126, 231);
+    font-size: 30px;
+    color: var(--secondary-color);
+    margin-top: 15px;
+    border: 0px;
+    border-radius: 6px;
+    height: 40px;
+    width: 100px;
+
+}
+
+.addpharmacy {
+    justify-content: center;
+    width: 40%;
+    display: flex;
+    padding: 30px;
+}
+
+.opening {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    width: fit-content;
+
+
+}
+
+.services {
+
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    grid-gap: 10px;
+    grid-template-rows: 400px;
+    font-size: 30px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.grid {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+#vmimg {
+    height: 400px;
+    width: 100%;
+}
+
+.details {
+    font-size: 20px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: 19.5% 19.5% 19.5% 19.5% 19.5%;
+    grid-gap: 5px;
+    grid-template-rows: 250px;
+    color: var(--primary-color);
+    text-align: center;
+
+}
+
+
+.products img {
+    height: 70px;
+    width: 100px;
+    margin-left: 30px;
+}
+
+.product1 {
+    border-radius: 10px;
+    background-color: white;
+}
+
+.products button {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    height: 40px;
+    width: 100px;
+    border: 0px;
+    border-radius: 15px;
+}

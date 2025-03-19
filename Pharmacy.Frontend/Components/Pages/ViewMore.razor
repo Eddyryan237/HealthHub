@@ -1,0 +1,124 @@
+﻿@page "/viewmore"
+@inject PharmacyClients Client
+
+
+
+
+
+<body>
+    @if (pharmacies is null)
+    {
+        <p><em>Loading.....</em></p>
+    }
+    else
+    {
+
+        @if (selectedPharmacy is not null)
+        {
+            <h1>Pharmacie D'Ekounou</h1>
+
+            <img src="@selectedPharmacy.Image" id="vmimg" alt="pharm3">
+            <div class="details">
+                <h2>@selectedPharmacy.Location</h2>
+                <p>Ekounou, Yaoundé situated at Carefour Ekounou</p>
+                <h2>Contacts</h2>
+                <p>Téléphone: @selectedPharmacy.Contact</p>
+            </div>
+        }
+
+        <div class="opening">
+            <h2>Opening Hours</h2>
+            <p>Ouvert 24h/24 et 7j/7</p>
+            <p>Monday: 6:00AM - 6:00PM </p>
+            <p>Tuesday: 6:00AM - 6:00PM </p>
+            <p>Wednesday: 6:00AM - 6:00PM </p>
+            <p>Thursday: 6:00AM - 6:00PM </p>
+            <p>Friday: 6:00AM - 6:00PM </p>
+            <p>Saturday: 6:00AM - 6:00PM </p>
+            <p>Sunday: 6:00AM - 6:00PM </p>
+        </div>
+        <div class="products">
+
+
+            <div class="product1">
+                <h3>Solpadeine Max Soluble</h3>
+                <img src="/images/solpadeine.jpg">
+                <p>Solpadeine Max Soluble Tablet 24s</p>
+                <button type="button">Shop Now</button>
+
+            </div>
+
+            <div class="product1">
+                <h3>Solpadeine Max Soluble</h3>
+                <img src="/images/solpadeine.jpg">
+                <p>Solpadeine Max Soluble Tablet 24s</p>
+                <button type="button">Shop Now</button>
+
+            </div>
+            <div class="product1">
+                <h3>Ibuprofen & Codeine</h3>
+                <img src="/images/ibu.jpg">
+                <p> Ibuprofen & Codeine 400/600mg Tablet 32s</p>
+                <button type="button">Shop Now</button>
+
+            </div>
+            <div class="product1">
+                <h3>Nurofen</h3>
+                <img src="/images/Nurofen.jpg">
+                <p>Nurofen Plus Tablet 32s</p>
+                <button type="button">Shop Now</button>
+
+            </div>
+            <div class="product1">
+                <h3>Paracetamol</h3>
+                <img src="/images/paracetamol.jpg">
+                <p>Paracetamol 500mg Tablet 32s</p>
+                <button type="button">Shop Now</button>
+            </div>
+        </div>
+        <h2>OUR SERVICES</h2>
+        <div class="services">
+            <div class="grid">
+
+                <h3>Prescriptions </h3>
+                <p>Whether yo need a one off medicine or a repeat precription,you can have your order delivered to your home
+                    or you can pick it up with click and collect </p>
+            </div>
+            <div class="grid">
+                <h4>Vaccinations</h4>
+                <p>With range of vaccinations available you can get the treatment you need.So whether you need a flu
+                    jab,travel vaccines or the HPV jab,you can get support</p>
+            </div>
+            <div class="grid">
+                <h5>Pharmacy Services</h5>
+                <p>Support is your doorstep with our pharmacy services.From pharmacy checks to, our team can help you stay
+                    on track with your health</p>
+            </div>
+            <div class="grid">
+                <h6>Online Support</h6>
+                <p>Get support and treatment for 14 health conditions. Our team can help you find medicated solutions that
+                    work for your needs and suit your lifestyle</p>
+            </div>
+        </div>
+
+    }
+</body>
+
+@code {
+
+    private PharmacySummary[]? pharmacies;
+    private PharmacySummary? selectedPharmacy;
+    protected override void OnInitialized()
+    {
+        pharmacies = Client.Getpharmacies();
+    }
+    private void SelectPharmacy(PharmacySummary pharmacie)
+    {
+        selectedPharmacy = pharmacie;
+
+    }
+
+
+
+
+}
