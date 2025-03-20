@@ -19,7 +19,7 @@ public class pharmacy
 
     [Required]
     [StringLength(50)]
-    public required string Location { get; set; }
+    public required string Locatioin { get; set; }
 
     [Required]
     [StringLength(100)]
