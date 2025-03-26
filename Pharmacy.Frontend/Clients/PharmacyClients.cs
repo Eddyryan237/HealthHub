@@ -41,10 +41,6 @@ Description = " Located at Tongolo"}
         pharmacies.Add(pharmacySummary);
 
     }
-    public required PharmacySummary selectedPharmacy{get; set;} 
-    public void SelectPharmacy(PharmacySummary pharmacy){
-        selectedPharmacy = pharmacy;
-    }
 
 
 }

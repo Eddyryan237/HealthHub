@@ -13,16 +13,16 @@
     else
     {
 
-        @if (selectedPharmacy is not null)
+        @if (pharmacie is not null)
         {
             <h1>Pharmacie D'Ekounou</h1>
 
-            <img src="@selectedPharmacy.Image" id="vmimg" alt="pharm3">
+            <img src="@pharmacie.Image" id="vmimg" alt="pharm3">
             <div class="details">
-                <h2>@selectedPharmacy.Location</h2>
+                <h2>@pharmacie.Location</h2>
                 <p>Ekounou, Yaoundé situated at Carefour Ekounou</p>
                 <h2>Contacts</h2>
-                <p>Téléphone: @selectedPharmacy.Contact</p>
+                <p>Téléphone: @pharmacie.Contact</p>
             </div>
         }
 
@@ -105,20 +105,16 @@
 </body>
 
 @code {
-
     private PharmacySummary[]? pharmacies;
-    private PharmacySummary? selectedPharmacy;
+    private PharmacySummary? pharmacie;
     protected override void OnInitialized()
     {
         pharmacies = Client.Getpharmacies();
+        if (pharmacie != null)
+        {
+            pharmacie = pharmacies.FirstOrDefault(i => i.Name == pharmacie.Name);
+        }
+
+
     }
-    private void SelectPharmacy(PharmacySummary pharmacie)
-    {
-        selectedPharmacy = pharmacie;
-
-    }
-
-
-
-
 }

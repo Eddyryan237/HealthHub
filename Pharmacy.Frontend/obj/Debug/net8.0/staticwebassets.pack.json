@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\welcome.jpg"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\map.js",
+      "PackagePath": "staticwebassets\\map.js"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },

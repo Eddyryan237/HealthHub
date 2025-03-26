@@ -29,3 +29,4 @@ C:\Users\User\Desktop\Project\Pharmacy.Frontend\obj\Debug\net8.0\ref\Pharmacy.Fr
 C:\Users\User\Desktop\Project\Pharmacy.Frontend\bin\Debug\net8.0\Pharmacy.Frontend.staticwebassets.endpoints.json
 C:\Users\User\Desktop\Project\Pharmacy.Frontend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\User\Desktop\Project\Pharmacy.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Pharmacy.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\Desktop\Project\Pharmacy.Frontend\obj\Debug\net8.0\Pharmacy.Frontend.sourcelink.json

@@ -1,27 +1,14 @@
-using System.ComponentModel.DataAnnotations;
+using System;
 
 namespace Pharmacy.Api.Entities;
-public class pharmacy
+
+public class Pharmacy
 {
-    public int Id { get; set; }
+   public int Id {get; set;}
+    public required string Name {get; set;}
+    public required string Image {get; set;}
+    public required string Contact {get; set;}
+    public required string Location {get; set;}
+    public required string Description {get; set;}
 
-    [Url]
-    [StringLength(50)]
-    public required string Name { get; set; }
-
-    [Required]
-    [StringLength(50)]
-    public required string Image { get; set; }
-
-    [Required]
-    [StringLength(20)]
-    public required string Contact { get; set; }
-
-    [Required]
-    [StringLength(50)]
-    public required string Locatioin { get; set; }
-
-    [Required]
-    [StringLength(100)]
-    public required string Description { get; set; }
 }

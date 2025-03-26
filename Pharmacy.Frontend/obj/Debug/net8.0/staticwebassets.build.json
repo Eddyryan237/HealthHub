@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "21t5IeHdHq0R/+dGtJQRFZDXsb7/1RWIuyahWycFQ8Q=",
+  "Hash": "a28dt/kiywAu7xNd1MNDrLIZtTACGq+lA2ZwMfm0RH4=",
   "Source": "Pharmacy.Frontend",
   "BasePath": "_content/Pharmacy.Frontend",
   "Mode": "Default",
@@ -332,6 +332,27 @@
       "OriginalItemSpec": "wwwroot\\images\\welcome.jpg"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\map.js",
+      "SourceId": "Pharmacy.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Frontend",
+      "RelativePath": "map#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bll81hyyni",
+      "Integrity": "T0RIv5WnpghfTXWBlJji+67J5lRpHpCbq78Traa1zIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\map.js"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
       "SourceId": "Pharmacy.Frontend",
       "SourceType": "Discovered",
@@ -346,8 +367,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1pqyagq4a9",
-      "Integrity": "peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=",
+      "Fingerprint": "9djpnbg4jk",
+      "Integrity": "s04OhkCgk5zgMJzNdN/PoLaFgc9MI7EtC+Mytoqcs98=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\style.css"
@@ -1421,6 +1442,88 @@
       ]
     },
     {
+      "Route": "map.bll81hyyni.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T0RIv5WnpghfTXWBlJji+67J5lRpHpCbq78Traa1zIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 07:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bll81hyyni"
+        },
+        {
+          "Name": "label",
+          "Value": "map.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0RIv5WnpghfTXWBlJji+67J5lRpHpCbq78Traa1zIk="
+        }
+      ]
+    },
+    {
+      "Route": "map.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T0RIv5WnpghfTXWBlJji+67J5lRpHpCbq78Traa1zIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 07:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T0RIv5WnpghfTXWBlJji+67J5lRpHpCbq78Traa1zIk="
+        }
+      ]
+    },
+    {
       "Route": "Pharmacy.Frontend.3t9ux24gt7.bundle.scp.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmacy.Frontend.bundle.scp.css",
       "Selectors": [],
@@ -1585,7 +1688,7 @@
       ]
     },
     {
-      "Route": "style.1pqyagq4a9.css",
+      "Route": "style.9djpnbg4jk.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\Project\\Pharmacy.Frontend\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1595,7 +1698,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4712"
+          "Value": "4555"
         },
         {
           "Name": "Content-Type",
@@ -1603,11 +1706,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=\""
+          "Value": "\"s04OhkCgk5zgMJzNdN/PoLaFgc9MI7EtC+Mytoqcs98=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:02:10 GMT"
+          "Value": "Mon, 24 Mar 2025 07:56:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,7 +1720,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1pqyagq4a9"
+          "Value": "9djpnbg4jk"
         },
         {
           "Name": "label",
@@ -1625,7 +1728,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk="
+          "Value": "sha256-s04OhkCgk5zgMJzNdN/PoLaFgc9MI7EtC+Mytoqcs98="
         }
       ]
     },
@@ -1640,7 +1743,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4712"
+          "Value": "4555"
         },
         {
           "Name": "Content-Type",
@@ -1648,11 +1751,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk=\""
+          "Value": "\"s04OhkCgk5zgMJzNdN/PoLaFgc9MI7EtC+Mytoqcs98=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:02:10 GMT"
+          "Value": "Mon, 24 Mar 2025 07:56:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1662,7 +1765,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-peWBbZsR34ABVl3iQenqV7M3Bkay3nO3q3KOGzsPHEk="
+          "Value": "sha256-s04OhkCgk5zgMJzNdN/PoLaFgc9MI7EtC+Mytoqcs98="
         }
       ]
     }

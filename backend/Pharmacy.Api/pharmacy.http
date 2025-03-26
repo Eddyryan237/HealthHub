@@ -1,0 +1,4 @@
+GET http://localhost:5103/pharmacies
+
+###
+GET http://localhost:5103/pharmacies/1

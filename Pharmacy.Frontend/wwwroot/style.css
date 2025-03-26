@@ -130,22 +130,13 @@ body {
 
 }
 
-#btn1 {
-    background-color: var(--primary-color);
-    border-radius: 7px;
-    height: 40px;
-    color: var(--secondary-color);
-    border: 0px;
-
-}
-
 #btn2 {
     background-color: var(--primary-color);
-    border-radius: 7px;
+    border-radius: 15px;
     height: 40px;
     color: var(--secondary-color);
     border: 0px;
-    margin-left: 10px;
+    margin-left: 25%;
 }
 
 .carts {

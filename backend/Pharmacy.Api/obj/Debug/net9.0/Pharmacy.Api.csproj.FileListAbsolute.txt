@@ -26,3 +26,10 @@ C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\refint\Pharm
 C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.Api.pdb
 C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.Api.genruntimeconfig.cache
 C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\ref\Pharmacy.Api.dll
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.Api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.Api.sourcelink.json
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\User\Desktop\Project\backend\Pharmacy.Api\obj\Debug\net9.0\Pharmacy.79707E06.Up2Date

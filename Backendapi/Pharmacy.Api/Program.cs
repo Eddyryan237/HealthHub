@@ -1,0 +1,11 @@
+using Pharmacy.Api.Dtos;
+using Pharmacy.Api.EndPoints;
+
+var builder = WebApplication.CreateBuilder(args);
+
+var app = builder.Build();
+
+app.MapPharmacyEndPoints();
+
+
+app.Run();
